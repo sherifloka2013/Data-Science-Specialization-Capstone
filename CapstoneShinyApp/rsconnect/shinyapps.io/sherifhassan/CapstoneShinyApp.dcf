@@ -1,0 +1,12 @@
+name: CapstoneShinyApp
+title: CapstoneShinyApp
+username:
+account: sherifhassan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 277007
+bundleId: 1215952
+url: https://sherifhassan.shinyapps.io/CapstoneShinyApp/
+when: 1518215927.17701
+asMultiple: FALSE
+asStatic: FALSE
